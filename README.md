@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+<h1 align="center">
+    🎵 Sing Me a Song - backend 🎵
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center"> 
+  Sing Me a Song 🚀 Complete
+</h4>
 
-## Available Scripts
+<p align="center">
+ <a href="#about">About</a> •
+ <a href="#features">Features</a> •
+ <a href="#tech-stack">Tech Stack</a> • 
+ <a href="#author">Author</a> • 
+</p>
 
-In the project directory, you can run:
+## About
 
-### `npm start`
+Have you ever asked anyone for a song recommendation? It's time to turn this into code.
+Sing me a song is an anonymous song recommendation application. The more people like a recommendation, the more likely it is to be recommended to others. 🎵
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- [x] Post Recommendation
+- [x] Upvote a Recommendation
+- [x] Downvote a Recommendation
+- [x] Get all the Recommendations
+- [x] Get a specific Recommendations
+- [x] Get a random Recommendation
+- [x] Get the tops Recommendations
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The following tools were used in the construction of the project:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### [](https://github.com/neves-gabriel/laBoleria-backend)**Server** ([NodeJS](https://nodejs.org/en/))
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **[TypeScript](https://www.typescriptlang.org/)**
+- **[Express](https://expressjs.com/)**
+- **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
+- **[Helmet](https://helmetjs.github.io/)**
+- **[dotENV](https://github.com/motdotla/dotenv)**
+- **[Joi](https://github.com/hapijs/joi)**
+- **[bcrypt](https://github.com/kelektiv/node.bcrypt.js)**
+- **[Day.js](https://github.com/iamkun/dayjs)**
+- **[faker](https://www.npmjs.com/package/faker)**
+- **[PostgreSQL client for node.js](https://github.com/brianc/node-postgres)**
 
-### `npm run eject`
+> See the file [package.json](https://github.com/neves-gabriel/valexAPI/blob/master/package.json)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Author
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<a href="https://www.linkedin.com/in/gabriel-rodrigues-neves/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/39607960?s=400&u=82b035c6ac7bdf750c568554dd4f6af500688e63&v=4" width="100px;" alt="Gabriel Neves"/>
+ <br />
+ <sub><b>Gabriel Neves</b></sub></a> <a href="https://www.linkedin.com/in/gabriel-rodrigues-neves/" title="LinkedIn"></a>
+ <br />
+ 
+[![Gmail Badge](https://img.shields.io/badge/-gabrielrn.mobres@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielrn.mobres@gmail.com)](mailto:gabrielrn.mobres@gmail.com)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
