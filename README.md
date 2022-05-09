@@ -1,5 +1,5 @@
 <h1 align="center">
-    🎵 Sing Me a Song - backend 🎵
+    🎵 Sing Me a Song - frontend 🎵
 </h1>
 
 <h4 align="center"> 
